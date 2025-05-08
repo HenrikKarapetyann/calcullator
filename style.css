@@ -6,13 +6,13 @@
 }
 #Name {
   background: #000000;	
-  padding: 27px;
+  padding: auto;
   border-radius: 40px 40px 5px 5px;
   height: 21%;
   width: 21%;
   display: inline-block;
-  font-size: 20px;
-  text-align: left;
+  font-size: auto;
+  text-align: auto;
 }
 
 
